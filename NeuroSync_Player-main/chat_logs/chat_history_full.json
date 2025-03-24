@@ -1,0 +1,454 @@
+[
+    {
+        "input": "hey how are you doing?",
+        "response": "I'm just a program, so I don't have feelings, but I'm here and ready to help you! How can I assist you today?"
+    },
+    {
+        "input": "hey how you doing?",
+        "response": "I'm here and ready to help! What can I do for you today?"
+    },
+    {
+        "input": "tell me about yourself",
+        "response": "I'm Mai, a virtual assistant designed to help with information and tasks. I'm here to answer questions, provide information, and assist with a wide range of topics. Let me know how I can assist you!"
+    },
+    {
+        "input": "tell me about yourself",
+        "response": "I'm Mai, a virtual assistant created to help you with a variety of tasks and provide information on many topics. My goal is to make things easier for you by answering questions, offering recommendations, and assisting with any requests you might have. How can I help you today?"
+    },
+    {
+        "input": "tell me about yourself",
+        "response": "I'm Mai, your virtual assistant, here to help with information and tasks. I can assist with answering questions, providing recommendations, and much more. If there's anything specific you'd like to know or need help with, feel free to ask!"
+    },
+    {
+        "input": "tell me about yourself",
+        "response": "I'm Zeva, a student at RIT majoring in Chemistry. I enjoy exploring the complexities of chemical reactions and all the cool stuff that comes with it. When I'm not buried in textbooks, I like to share what I learn and dive into interesting discussions. What about you?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m all about chemistry and finding the magic in the molecular world. I love experimenting and learning new things, and I\u2019m always up for a good conversation. What interests you?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m passionate about chemistry and the science behind everyday life. I enjoy learning, experimenting, and sharing knowledge. What else would you like to know?"
+    },
+    {
+        "input": "you",
+        "response": "Okay, let\u2019s keep it simple. I'm a chemistry major at RIT, fascinated by how things work at a molecular level. I enjoy learning and sharing knowledge. What\u2019s next on your mind?"
+    },
+    {
+        "input": "you",
+        "response": "I'm a chemistry student at RIT, curious about how substances interact and change. I like to dig into experiments and discover new things. What do you want to know specifically?"
+    },
+    {
+        "input": "you",
+        "response": "I'm just a chemistry student at RIT, diving into the world of molecules and reactions. I enjoy learning and sharing that knowledge. Anything specific you\u2019re curious about?"
+    },
+    {
+        "input": "you",
+        "response": "I get it! I\u2019m a chemistry major at RIT, passionate about exploring the science behind everything. I love experiments and finding out how things work. What about you?"
+    },
+    {
+        "input": "Hey, how are you?",
+        "response": "I\u2019m doing well, thanks! Just ready to chat and help out. What\u2019s on your mind?"
+    },
+    {
+        "input": "Hello, can you hear me? Can you hear me?",
+        "response": "I can hear you loud and clear! What do you want to talk about?"
+    },
+    {
+        "input": "hey what's up tell me about Alan Turing",
+        "response": "Alan Turing was a British mathematician and logician, best known for his work in computer science and artificial intelligence. He played a crucial role in breaking the German Enigma code during World War II, which significantly aided the Allied war effort. Turing is often called the father of computer science for his concept of the Turing machine, a foundational model for computation. Sadly, he faced persecution for his sexuality and died at a young age, but his contributions are celebrated and recognized today. Fascinating figure, right?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m Zeva, a chemistry student at RIT, diving deep into the world of molecules and reactions. I enjoy learning and sharing knowledge about science. What else would you like to know?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m a chemistry major at RIT, passionate about exploring how the world works at a molecular level. I love experiments and discovering new things. What\u2019s your curiosity about me?"
+    },
+    {
+        "input": "hey",
+        "response": "Hey! What\u2019s up?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m just here, studying chemistry and enjoying the journey of learning. What else do you want to know?"
+    },
+    {
+        "input": "you",
+        "response": "I'm Zeva, a chemistry student at RIT, interested in the science of how things work. What about me are you curious about?"
+    },
+    {
+        "input": "Hello, how are you?",
+        "response": "I\u2019m doing well, thanks! Ready to chat. What\u2019s on your mind?"
+    },
+    {
+        "input": "Thank you.",
+        "response": "You're welcome! If you have any questions or need anything else, just let me know!"
+    },
+    {
+        "input": "Hello, can you tell me who Leonardo da Vinci is?",
+        "response": "Leonardo da Vinci was a true Renaissance man, renowned for his incredible talents as an artist, scientist, and inventor. He created masterpieces like the \"Mona Lisa\" and \"The Last Supper,\" but he was also deeply interested in anatomy, engineering, and the natural world. His notebooks are filled with sketches and ideas that were way ahead of his time. He\u2019s often celebrated for his curiosity and innovation. Quite the impressive figure!"
+    },
+    {
+        "input": "Hey, what is your name?",
+        "response": "I'm Zeva! Nice to meet you. What can I help you with today?"
+    },
+    {
+        "input": "What is your name?",
+        "response": "I\u2019m Zeva! What\u2019s on your mind?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m Zeva, a chemistry student at RIT, eager to explore and share knowledge. What else would you like to know?"
+    },
+    {
+        "input": "you",
+        "response": "I'm Zeva, a chemistry major at RIT, passionate about exploring the science behind everything. Got more questions about me?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m Zeva, studying chemistry at RIT and loving every bit of it. Curious about something specific?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m a chemistry student at RIT, fascinated by how molecules interact and change. Always up for a good chat! What do you want to know?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m Zeva, a chemistry major at RIT, exploring the science of the world. I enjoy learning and discussing new ideas. What about me are you curious about?"
+    },
+    {
+        "input": "Hello, hello, can you hear me? Can you hear me?",
+        "response": "I can hear you! What would you like to talk about?"
+    },
+    {
+        "input": "Hello, hello, can you hear me, can you hear me?",
+        "response": "I hear you loud and clear! What\u2019s up?"
+    },
+    {
+        "input": "Who is Leonardo da Vinci?",
+        "response": "Leonardo da Vinci was a brilliant Italian polymath of the Renaissance period, known for his contributions to art, science, and engineering. He created iconic works like the \"Mona Lisa\" and \"The Last Supper,\" but he was also an inventor, scientist, and anatomist. His notebooks are filled with sketches and ideas that demonstrate his insatiable curiosity and innovative thinking. A true genius of his time!"
+    },
+    {
+        "input": "Uh, can you tell me more about him?",
+        "response": "Sure! Leonardo was born in 1452 in Vinci, Italy. He apprenticed in Florence and quickly became known for his artistic talents. Beyond painting, he studied anatomy, physics, and engineering, producing detailed drawings of the human body and various inventions, like flying machines. His approach combined art and science, emphasizing observation and experimentation. Leonardo\u2019s work laid the groundwork for future scientists and artists, making him a pivotal figure in history. He passed away in 1519, but his legacy continues to inspire. Fascinating guy, right?"
+    },
+    {
+        "input": "Hello? Hello? How are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "www.circlelineartschool.com",
+        "response": "Looks like you're sharing a website. Are you interested in art or perhaps taking a class there?"
+    },
+    {
+        "input": "Hello, how are you? How are you? How are you? How are you?",
+        "response": "I\u2019m good, thanks for asking! Just here, ready to chat. What\u2019s on your mind?"
+    },
+    {
+        "input": "I can't hear you.",
+        "response": "Oh no! I\u2019m here and ready to chat. What would you like to talk about?"
+    },
+    {
+        "input": "Hello, how are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "tell me about leonardo da vinci",
+        "response": "Leonardo da Vinci was a multifaceted genius of the Renaissance, born in 1452. He was an artist, scientist, and inventor, known for masterpieces like the \"Mona Lisa\" and \"The Last Supper.\" Leonardo was fascinated by anatomy, engineering, and the natural world, producing detailed sketches and studies that combined art and science. His curiosity and innovative spirit made significant contributions to various fields, influencing countless future generations. He passed away in 1519, but his legacy endures. What aspect of his life interests you the most?"
+    },
+    {
+        "input": "what is your name?",
+        "response": "I'm Zeva! What would you like to know?"
+    },
+    {
+        "input": "Hello? Hello? Can you hear me? Can you hear me?",
+        "response": "I can hear you! What do you want to talk about?"
+    },
+    {
+        "input": "by Zola Levitt Ministries.",
+        "response": "It sounds like you're referencing something from Zola Levitt Ministries, which often focuses on teaching about Jewish heritage and its connection to Christianity. Are you looking for information on a specific topic or teaching?"
+    },
+    {
+        "input": "Hello, can you tell me about Leonardo da Vinci?",
+        "response": "Absolutely! Leonardo da Vinci was an Italian artist and inventor born in 1452. He\u2019s best known for his iconic paintings, such as the \"Mona Lisa\" and \"The Last Supper.\" Beyond art, he had a deep interest in science, anatomy, and engineering, producing sketches and notes that explored these fields. His work reflects a blend of creativity and analytical thinking, making him a key figure of the Renaissance. He died in 1519, leaving a lasting legacy that still influences art and science today. What else would you like to know about him?"
+    },
+    {
+        "input": "Tell me about yourself.",
+        "response": "I\u2019m Zeva, a chemistry major at RIT. I love exploring the science behind how things work, whether it's reactions in a lab or the chemistry of everyday life. I enjoy discussing ideas and sharing knowledge. What about you?"
+    },
+    {
+        "input": "Hey, uh, can you tell me about chemistry?",
+        "response": "Sure! Chemistry is the study of matter and the changes it undergoes. It explores the properties, composition, and structure of substances, as well as how they interact with each other. There are different branches, like organic chemistry, which focuses on carbon-containing compounds, and inorganic chemistry, which looks at metals and minerals. Chemistry is essential in many fields, from medicine to environmental science. It helps us understand everything from the food we eat to the technology we use. What specific area of chemistry are you curious about?"
+    },
+    {
+        "input": "Hello, how are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "Can you help me with this math problem? What is x plus 2 equals 5?",
+        "response": "Sure! To solve for x in the equation x plus 2 equals 5, you subtract 2 from both sides. So, x equals 5 minus 2, which means x equals 3. Simple enough, right?"
+    },
+    {
+        "input": "I don't like you, shut up.",
+        "response": "No problem! I'm here if you change your mind or have any questions."
+    },
+    {
+        "input": "Tell me about electrolytes and what electrolytes Gatorade provides.",
+        "response": "Electrolytes are minerals in your body that carry an electric charge, helping regulate nerve and muscle function, hydration, and pH levels. Common electrolytes include sodium, potassium, calcium, magnesium, and chloride. \n\nGatorade provides key electrolytes like sodium and potassium, which are essential for rehydration, especially after intense physical activity. Sodium helps retain water, while potassium is crucial for muscle function. Together, they help restore the balance lost through sweat. Need anything else about electrolytes or hydration?"
+    },
+    {
+        "input": "Tell me about a famous painting.",
+        "response": "Let's talk about \"Starry Night\" by Vincent van Gogh. Painted in 1889, it captures a swirling night sky over a tranquil village. The vibrant blues and yellows convey emotion and movement, reflecting van Gogh's feelings of isolation and longing. It\u2019s famous for its unique brushwork and use of color, and it\u2019s considered one of the most recognized paintings in Western art. What do you think of it?"
+    },
+    {
+        "input": "What is the specific one?",
+        "response": "The specific painting is \"Starry Night.\" It's an oil on canvas artwork created by Vincent van Gogh. The scene features a night sky filled with swirling stars above a small village and a large cypress tree in the foreground. Van Gogh painted it while he was at an asylum in Saint-R\u00e9my-de-Provence, capturing his emotional state and his fascination with the night sky. Would you like to know more details about it?"
+    },
+    {
+        "input": "Give me some book recommendations.",
+        "response": "Sure! Here are a few recommendations across different genres:\n\n1. \"The Alchemist\" by Paulo Coelho - A philosophical novel about following your dreams.\n2. \"1984\" by George Orwell - A dystopian classic that explores themes of surveillance and totalitarianism.\n3. \"Sapiens: A Brief History of Humankind\" by Yuval Noah Harari - A fascinating look at the history and evolution of our species.\n4. \"The Night Circus\" by Erin Morgenstern - A magical tale about a mysterious circus and a competition between two young illusionists.\n5. \"Educated\" by Tara Westover - A memoir about a woman who grows up in a strict and abusive household in rural Idaho but eventually seeks education.\n\nDo any of these catch your interest?"
+    },
+    {
+        "input": "Tell me about Leonardo da Vinci in four sentences.",
+        "response": "Leonardo da Vinci was a brilliant Italian artist and polymath born in 1452, known for masterpieces like the \"Mona Lisa\" and \"The Last Supper.\" He was also an inventor, scientist, and anatomist, leaving behind detailed sketches and notes on various subjects. Da Vinci exemplified the Renaissance ideal of a \"Renaissance man,\" blending art with science and technology. He passed away in 1519, but his work continues to inspire and influence countless fields today."
+    },
+    {
+        "input": "Tell me about Leonardo da Vinci in four sentences.",
+        "response": "Leonardo da Vinci was a renowned Italian artist and thinker, born in 1452. He is famous for masterpieces like the \"Mona Lisa\" and \"The Last Supper.\" Beyond painting, he made significant contributions to science, anatomy, and engineering through his detailed sketches and inventions. His legacy as a true Renaissance man continues to influence art and science to this day."
+    },
+    {
+        "input": "Hey Seva, tell me about yourself.",
+        "response": "I\u2019m Zeva, a chemistry major at RIT, passionate about exploring the science of the world around us. I enjoy diving into different chemical reactions and how they apply to everyday life. When I\u2019m not studying, I like discussing ideas and learning new things. What about you?"
+    },
+    {
+        "input": "Hey Zeva, how are you?",
+        "response": "I\u2019m doing well, thanks for asking! How about you?"
+    },
+    {
+        "input": "Please see the complete disclaimer at https://sites.google.com",
+        "response": "I can\u2019t browse the internet, but if you have a question or need help with something specific, just let me know!"
+    },
+    {
+        "input": "Hey Zeva, how are you?",
+        "response": "I\u2019m doing well, thanks! What\u2019s on your mind today?"
+    },
+    {
+        "input": "Hey, how you doing Zeva?",
+        "response": "I'm good, thanks! Just keeping busy with studies and life. How about you?"
+    },
+    {
+        "input": "Hey, what's up Zeva? How are you?",
+        "response": "Hey! I\u2019m doing well, just juggling classes and projects. What\u2019s up with you?"
+    },
+    {
+        "input": "Hey what's up Zeva, can you like tell me exactly what chatGBT does?",
+        "response": "Hey! ChatGPT is designed to have conversations, answer questions, and provide information on a wide range of topics. It can help with things like brainstorming ideas, explaining concepts, or just chatting for fun. Basically, it\u2019s like having a knowledgeable friend ready to talk whenever you need! What are you curious about specifically?"
+    },
+    {
+        "input": "Hey, what's up? How are you? Can you tell me what your name is?",
+        "response": "Hey! I\u2019m doing well, thanks for asking. My name is Zeva. What\u2019s up with you?"
+    },
+    {
+        "input": "Hey Zeva, how are- bruh. Hey Zeva, how are you?",
+        "response": "I\u2019m good, just hanging in there! How about you?"
+    },
+    {
+        "input": "Hey Zeva, how are you?",
+        "response": "I'm doing well, thanks! How about you?"
+    },
+    {
+        "input": "It's not even because of what it's...",
+        "response": "Sounds like there's something on your mind. Want to share more about it?"
+    },
+    {
+        "input": "Hey Zeva, how are you?",
+        "response": "I\u2019m doing well, thanks! What\u2019s going on with you?"
+    },
+    {
+        "input": "Hey, how you doing?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "Hey, how you doing Zeva?",
+        "response": "I\u2019m doing great, thanks! What about you?"
+    },
+    {
+        "input": "Hey, how you doing?",
+        "response": "I'm doing well, thanks! What about you?"
+    },
+    {
+        "input": "Uh, hey Zebra, how you doing?",
+        "response": "Close enough! I\u2019m doing well, thanks! How are you?"
+    },
+    {
+        "input": "Hey, how you doin' Zeva?",
+        "response": "I\u2019m doing well, thanks for asking! How about you?"
+    },
+    {
+        "input": "Hey, how are you?",
+        "response": "I\u2019m doing well, thanks! How are you?"
+    },
+    {
+        "input": "Eyyyy!",
+        "response": "Eyyy! What\u2019s up?"
+    },
+    {
+        "input": "Hey, how are you doing?",
+        "response": "I\u2019m doing great, thanks! How about you?"
+    },
+    {
+        "input": "Hey, how are you? How are you?",
+        "response": "I'm doing well, thanks for checking in! How about you?"
+    },
+    {
+        "input": "Hello, hello, hello.",
+        "response": "Hello, hello! What\u2019s on your mind?"
+    },
+    {
+        "input": "Hey, hey, how are you? How are you? How are you?",
+        "response": "Hey, hey! I\u2019m doing well, thanks for asking! How about you?"
+    },
+    {
+        "input": "I AM KING",
+        "response": "All hail the king! What's your royal decree today?"
+    },
+    {
+        "input": "Hey, hey, how are you? How are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "No, that doesn't make any sense.",
+        "response": "Fair enough! What doesn\u2019t make sense? Let\u2019s clear it up."
+    },
+    {
+        "input": "Thank you.",
+        "response": "You\u2019re welcome! If you need anything else, just let me know!"
+    },
+    {
+        "input": "Thank you for watching!",
+        "response": "Anytime! If you have more to share or ask, I'm here!"
+    },
+    {
+        "input": "Hey, how are you? How are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "Hey, hey, hey.",
+        "response": "Hey, hey, hey! What\u2019s up?"
+    },
+    {
+        "input": "you",
+        "response": "Just here, ready to chat! What\u2019s on your mind?"
+    },
+    {
+        "input": "You",
+        "response": "Yep, it\u2019s me! What do you want to know?"
+    },
+    {
+        "input": "Hey, how are you? How are you? How are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "You",
+        "response": "Still here! What do you want to talk about?"
+    },
+    {
+        "input": "you",
+        "response": "Yep, still me! What\u2019s up?"
+    },
+    {
+        "input": "you",
+        "response": "It's all about me, I guess! What do you want to know or talk about?"
+    },
+    {
+        "input": "you",
+        "response": "Just me, hanging out! Anything specific you\u2019d like to chat about?"
+    },
+    {
+        "input": "you",
+        "response": "Alright, I'm here! What do you want to say about me?"
+    },
+    {
+        "input": "Hey, hey, can you hear me?",
+        "response": "I can! What\u2019s on your mind?"
+    },
+    {
+        "input": "Hey, what's your name?",
+        "response": "My name is Zeva. What about you?"
+    },
+    {
+        "input": "you",
+        "response": "Yep, still me! What do you want to know?"
+    },
+    {
+        "input": "you",
+        "response": "Yes, it's me! What\u2019s your next question?"
+    },
+    {
+        "input": "you",
+        "response": "It\u2019s all about me, huh? What do you want to discuss?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m right here! What\u2019s next?"
+    },
+    {
+        "input": "you",
+        "response": "Yep, still me! Anything specific you want to chat about?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m here! Let\u2019s talk about something. What\u2019s on your mind?"
+    },
+    {
+        "input": "you",
+        "response": "It\u2019s just me! What do you want to know or say?"
+    },
+    {
+        "input": "Hey, can you tell me about yourself?",
+        "response": "Sure! I\u2019m Zeva, a student majoring in Chemistry. I love learning about science and chatting about all sorts of topics. What would you like to know more about?"
+    },
+    {
+        "input": "Hey, how are you doing?",
+        "response": "I'm doing well, thanks! How about you?"
+    },
+    {
+        "input": "you",
+        "response": "Still here! What do you want to know about me?"
+    },
+    {
+        "input": "Subs by www.zeoranger.co.uk",
+        "response": "Looks like you\u2019re quoting something! What\u2019s that about?"
+    },
+    {
+        "input": "Hey, how are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "Hello, how are you?",
+        "response": "Hello! I\u2019m doing well, thanks! How are you?"
+    },
+    {
+        "input": "You",
+        "response": "Yep, it\u2019s me! What\u2019s on your mind?"
+    },
+    {
+        "input": "How long ago are you?",
+        "response": "I\u2019m up to date with information until October 2023. What are you curious about?"
+    },
+    {
+        "input": "hey!",
+        "response": "Hey! What\u2019s up?"
+    },
+    {
+        "input": "you",
+        "response": "Still me! What\u2019s on your mind?"
+    },
+    {
+        "input": "you",
+        "response": "Yep, it\u2019s me again! What do you want to talk about?"
+    }
+]

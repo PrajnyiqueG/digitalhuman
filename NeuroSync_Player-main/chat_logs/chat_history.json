@@ -1,0 +1,206 @@
+[
+    {
+        "input": "Hey, what's up? How are you? Can you tell me what your name is?",
+        "response": "Hey! I\u2019m doing well, thanks for asking. My name is Zeva. What\u2019s up with you?"
+    },
+    {
+        "input": "Hey Zeva, how are- bruh. Hey Zeva, how are you?",
+        "response": "I\u2019m good, just hanging in there! How about you?"
+    },
+    {
+        "input": "Hey Zeva, how are you?",
+        "response": "I'm doing well, thanks! How about you?"
+    },
+    {
+        "input": "It's not even because of what it's...",
+        "response": "Sounds like there's something on your mind. Want to share more about it?"
+    },
+    {
+        "input": "Hey Zeva, how are you?",
+        "response": "I\u2019m doing well, thanks! What\u2019s going on with you?"
+    },
+    {
+        "input": "Hey, how you doing?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "Hey, how you doing Zeva?",
+        "response": "I\u2019m doing great, thanks! What about you?"
+    },
+    {
+        "input": "Hey, how you doing?",
+        "response": "I'm doing well, thanks! What about you?"
+    },
+    {
+        "input": "Uh, hey Zebra, how you doing?",
+        "response": "Close enough! I\u2019m doing well, thanks! How are you?"
+    },
+    {
+        "input": "Hey, how you doin' Zeva?",
+        "response": "I\u2019m doing well, thanks for asking! How about you?"
+    },
+    {
+        "input": "Hey, how are you?",
+        "response": "I\u2019m doing well, thanks! How are you?"
+    },
+    {
+        "input": "Eyyyy!",
+        "response": "Eyyy! What\u2019s up?"
+    },
+    {
+        "input": "Hey, how are you doing?",
+        "response": "I\u2019m doing great, thanks! How about you?"
+    },
+    {
+        "input": "Hey, how are you? How are you?",
+        "response": "I'm doing well, thanks for checking in! How about you?"
+    },
+    {
+        "input": "Hello, hello, hello.",
+        "response": "Hello, hello! What\u2019s on your mind?"
+    },
+    {
+        "input": "Hey, hey, how are you? How are you? How are you?",
+        "response": "Hey, hey! I\u2019m doing well, thanks for asking! How about you?"
+    },
+    {
+        "input": "I AM KING",
+        "response": "All hail the king! What's your royal decree today?"
+    },
+    {
+        "input": "Hey, hey, how are you? How are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "No, that doesn't make any sense.",
+        "response": "Fair enough! What doesn\u2019t make sense? Let\u2019s clear it up."
+    },
+    {
+        "input": "Thank you.",
+        "response": "You\u2019re welcome! If you need anything else, just let me know!"
+    },
+    {
+        "input": "Thank you for watching!",
+        "response": "Anytime! If you have more to share or ask, I'm here!"
+    },
+    {
+        "input": "Hey, how are you? How are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "Hey, hey, hey.",
+        "response": "Hey, hey, hey! What\u2019s up?"
+    },
+    {
+        "input": "you",
+        "response": "Just here, ready to chat! What\u2019s on your mind?"
+    },
+    {
+        "input": "You",
+        "response": "Yep, it\u2019s me! What do you want to know?"
+    },
+    {
+        "input": "Hey, how are you? How are you? How are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "You",
+        "response": "Still here! What do you want to talk about?"
+    },
+    {
+        "input": "you",
+        "response": "Yep, still me! What\u2019s up?"
+    },
+    {
+        "input": "you",
+        "response": "It's all about me, I guess! What do you want to know or talk about?"
+    },
+    {
+        "input": "you",
+        "response": "Just me, hanging out! Anything specific you\u2019d like to chat about?"
+    },
+    {
+        "input": "you",
+        "response": "Alright, I'm here! What do you want to say about me?"
+    },
+    {
+        "input": "Hey, hey, can you hear me?",
+        "response": "I can! What\u2019s on your mind?"
+    },
+    {
+        "input": "Hey, what's your name?",
+        "response": "My name is Zeva. What about you?"
+    },
+    {
+        "input": "you",
+        "response": "Yep, still me! What do you want to know?"
+    },
+    {
+        "input": "you",
+        "response": "Yes, it's me! What\u2019s your next question?"
+    },
+    {
+        "input": "you",
+        "response": "It\u2019s all about me, huh? What do you want to discuss?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m right here! What\u2019s next?"
+    },
+    {
+        "input": "you",
+        "response": "Yep, still me! Anything specific you want to chat about?"
+    },
+    {
+        "input": "you",
+        "response": "I\u2019m here! Let\u2019s talk about something. What\u2019s on your mind?"
+    },
+    {
+        "input": "you",
+        "response": "It\u2019s just me! What do you want to know or say?"
+    },
+    {
+        "input": "Hey, can you tell me about yourself?",
+        "response": "Sure! I\u2019m Zeva, a student majoring in Chemistry. I love learning about science and chatting about all sorts of topics. What would you like to know more about?"
+    },
+    {
+        "input": "Hey, how are you doing?",
+        "response": "I'm doing well, thanks! How about you?"
+    },
+    {
+        "input": "you",
+        "response": "Still here! What do you want to know about me?"
+    },
+    {
+        "input": "Subs by www.zeoranger.co.uk",
+        "response": "Looks like you\u2019re quoting something! What\u2019s that about?"
+    },
+    {
+        "input": "Hey, how are you?",
+        "response": "I\u2019m doing well, thanks! How about you?"
+    },
+    {
+        "input": "Hello, how are you?",
+        "response": "Hello! I\u2019m doing well, thanks! How are you?"
+    },
+    {
+        "input": "You",
+        "response": "Yep, it\u2019s me! What\u2019s on your mind?"
+    },
+    {
+        "input": "How long ago are you?",
+        "response": "I\u2019m up to date with information until October 2023. What are you curious about?"
+    },
+    {
+        "input": "hey!",
+        "response": "Hey! What\u2019s up?"
+    },
+    {
+        "input": "you",
+        "response": "Still me! What\u2019s on your mind?"
+    },
+    {
+        "input": "you",
+        "response": "Yep, it\u2019s me again! What do you want to talk about?"
+    }
+]
