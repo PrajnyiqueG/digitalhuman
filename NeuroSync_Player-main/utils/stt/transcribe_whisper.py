@@ -1,6 +1,9 @@
 import requests
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-OPENAI_API_KEY = "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"  # Use the API key from your environment
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
 def transcribe_audio(audio_bytes):
     """Transcribe audio using OpenAI Whisper API."""

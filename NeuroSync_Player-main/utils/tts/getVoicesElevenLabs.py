@@ -1,6 +1,9 @@
 import requests
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
-XI_API_KEY = "sk_49bac64baa8fe562d8eb788ec3873f20de12b2b4353badac"
+XI_API_KEY = os.environ.get("ELEVENLABS_API_KEY")
 
 url = "https://api.elevenlabs.io/v1/voices"
 

@@ -1,0 +1,15 @@
+flask
+kokoro
+librosa
+torch
+numpy
+pandas
+pygame
+flask_cors
+timecode
+requests
+keyboard
+soundfile
+openai
+scipy
+dotenv

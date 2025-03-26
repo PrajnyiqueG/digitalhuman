@@ -4,6 +4,7 @@ from queue import Queue
 from openai import OpenAI
 from utils.llm.sentence_builder import SentenceBuilder
 
+
 ##############################
 # Warm-up Function to Pre-establish the Connection
 ##############################

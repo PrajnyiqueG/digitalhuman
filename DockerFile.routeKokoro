@@ -1,0 +1,16 @@
+FROM python:3.10
+WORKDIR /athena_backend_kokoro
+
+COPY requirements.txt .
+RUN apt-get update && apt-get install -y ffmpeg libgl1 libsndfile1
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY ./NeuroSync_Player-main ./NeuroSync_Player-main
+EXPOSE 8000
+
+CMD [ "python",  "NeuroSync_Player-main/utils/tts/kokoro/kokoro_api.py"]
+
+LABEL maintainer="prajnyique@theathenaai.com"
+LABEL version="1.0"
+LABEL description="local lightweight tts model"
+

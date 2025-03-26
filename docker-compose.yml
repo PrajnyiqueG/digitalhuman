@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  athena_backend_neurosync:
+    build:
+      context: ./
+      dockerfile: DockerFile.routeNeurosync
+    container_name: athena_backend_neurosync_container
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/athena_backend_neurosync
+    env_file: .env
+  athena_backend_kokoro:
+    build:
+      context: ./
+      dockerfile: DockerFile.routeKokoro
+    container_name: athena_backend_kokoro_container
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/athena_backend_kokoro
