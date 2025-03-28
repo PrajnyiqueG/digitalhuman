@@ -11,13 +11,12 @@ services:
     volumes:
       - .:/athena_backend_neurosync
     env_file: .env
+    runtime: nvidia
     deploy:
       resources:
-        reservation:
+        reservations:
           devices:
-          - driver: nvidia
-            capabilities: [gpu]
-            count: 1
+            - capabilities: [gpu]
   athena_backend_kokoro:
     build:
       context: ./
