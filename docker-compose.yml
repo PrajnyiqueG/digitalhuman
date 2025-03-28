@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   athena_backend_neurosync:
     build:
