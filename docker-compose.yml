@@ -7,7 +7,7 @@ services:
     ports:
       - "5000:5000"
     volumes:
-      - .:/athena_backend_neurosync
+      - ./NeuroSync_Local_API:/athena_backend_neurosync/digitalhuman/NeuroSync_Local_API
     env_file: .env
     runtime: nvidia
     deploy:
