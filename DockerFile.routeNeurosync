@@ -4,8 +4,10 @@ WORKDIR /athena_backend_neurosync
 
 COPY requirements.txt .
 RUN apt-get update && apt-get install -y ffmpeg libgl1 libsndfile1 python3 python3-pip git git-lfs
-RUN pip install --no-cache-dir -r requirements.txt
-RUN git lfs install && \
+RUN pip install --no-cache-dir -r requirements.txt &&\
+    git --version
+RUN git clone https://github.com/PrajnyiqueG/digitalhuman.git && \
+    git lfs install &&\
     git lfs pull &&\
     git lfs ls-files
 
